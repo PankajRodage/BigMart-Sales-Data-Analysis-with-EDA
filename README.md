@@ -1,4 +1,5 @@
 # BigMart Sales Data Analysis with EDA
+
 ## Project Description
    #### Overview
    This project performs Exploratory Data Analysis (EDA) on the BigMart sales dataset. The goal is to analyze and visualize sales data to uncover patterns, trends, and insights that can help improve business strategies. The dataset includes sales information for various products across different BigMart stores.
@@ -17,27 +18,47 @@ Visualization: Creating various charts and plots to illustrate sales trends, dis
 2. Project Description Overview Motivation Features
 3. Installation
    Prerequisites
-   Ensure you have the following software and libraries installed:
-     1.Python 3.x
-     2.Pandas 1.3.3 or later
-     3.NumPy 1.21.2 or later
-     4.Matplotlib 3.4.3 or later
-     5.Seaborn 0.11.2 or later
    Installation Steps
-     Prerequisites Before setting up the project, ensure you have the following installed:
-     Python 3.8+: Programming language used for analysis.
-     Pip: Python package installer.
-5. Usage
+    
+4. Usage
    Instructions
    Examples
    Data Files
-6. Dependencies
-7. Contributing
+5. Dependencies
+6. Contributing
    Guidelines
    Issues and Feedback
-8. License
-9. Credits and Acknowledgments
-10. Contact Information
-11. Badges
-12. Future Work
-13. References
+7. License
+8. Credits and Acknowledgments
+9. Contact Information
+10. Badges
+11. Future Work
+12. References
+
+# Installation
+Prerequisites
+Before setting up the project, ensure you have the following installed:
+
+Python 3.8+: Programming language used for analysis.
+Pip: Python package installer.
+   
+# Usage
+  ### Instructions
+     To start the analysis, open Jupyter Notebook:
+     Navigate to analysis.ipynb and run the cells to perform the data analysis.
+
+  ### Examples
+     Basic Analysis: Execute cells to compute summary statistics and visualize data.
+     Model Training: Run the cells under the "Predictive Modeling" section to train and evaluate models.
+  ### Data Files
+     Ensure you have the necessary data files (e.g., Ames_Housing_Subset.csv) in the data or update the paths in the notebook accordingly.
+
+# Dependencies 
+This project depends on the following libraries:
+
+1. Pandas: Version 1.4.0+
+2. NumPy: Version 1.22.0+
+3. Matplotlib: Version 3.5.1+
+4. Seaborn: Version 0.11.2+
+5. Jupyter Notebook: Version 6.4.0+
+
