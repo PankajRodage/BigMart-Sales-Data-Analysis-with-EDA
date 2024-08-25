@@ -13,20 +13,28 @@ Bivariate Analysis: Investigating relationships between sales and other variable
 Visualization: Creating various charts and plots to illustrate sales trends, distributions, and correlations.
 
 ## Table of Contents
-. Installation
+1. Project Title
+2. Project Description Overview Motivation Features
+3. Installation
    Prerequisites
-    Installation Steps
-. Usage
-   #### Instructions
+   Ensure you have the following software and libraries installed:
+     1.Python 3.x
+     2.Pandas 1.3.3 or later
+     3.NumPy 1.21.2 or later
+     4.Matplotlib 3.4.3 or later
+     5.Seaborn 0.11.2 or later
+   Installation Steps
+5. Usage
+   Instructions
    Examples
    Data Files
-. Dependencies
-. Contributing
+6. Dependencies
+7. Contributing
    Guidelines
    Issues and Feedback
-. License
-. Credits and Acknowledgments
-. Contact Information
-. Badges
-. Future Work
-. References
+8. License
+9. Credits and Acknowledgments
+10. Contact Information
+11. Badges
+12. Future Work
+13. References
