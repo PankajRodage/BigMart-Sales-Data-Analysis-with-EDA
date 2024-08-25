@@ -24,6 +24,9 @@ Visualization: Creating various charts and plots to illustrate sales trends, dis
      4.Matplotlib 3.4.3 or later
      5.Seaborn 0.11.2 or later
    Installation Steps
+     Prerequisites Before setting up the project, ensure you have the following installed:
+     Python 3.8+: Programming language used for analysis.
+     Pip: Python package installer.
 5. Usage
    Instructions
    Examples
