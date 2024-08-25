@@ -36,12 +36,15 @@ Visualization: Creating various charts and plots to illustrate sales trends, dis
 12. References
 
 # Installation
-Prerequisites
+#### Prerequisites
 Before setting up the project, ensure you have the following installed:
 
 Python 3.8+: Programming language used for analysis.
 Pip: Python package installer.
-   
+#### Installation Steps
+    Install the Required Libraries
+    Run Jupyter Notebook 
+  
 # Usage
   ### Instructions
      To start the analysis, open Jupyter Notebook:
