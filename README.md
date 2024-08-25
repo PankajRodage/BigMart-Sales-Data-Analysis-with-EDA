@@ -11,3 +11,22 @@ Data Cleaning: Handling missing values, outliers, and duplicates to ensure data 
 Univariate Analysis: Examining individual features such as sales distribution, product categories, and store performance.
 Bivariate Analysis: Investigating relationships between sales and other variables like store location and product type.
 Visualization: Creating various charts and plots to illustrate sales trends, distributions, and correlations.
+
+## Table of Contents
+. Installation
+   Prerequisites
+    Installation Steps
+. Usage
+   #### Instructions
+   Examples
+   Data Files
+. Dependencies
+. Contributing
+   Guidelines
+   Issues and Feedback
+. License
+. Credits and Acknowledgments
+. Contact Information
+. Badges
+. Future Work
+. References
